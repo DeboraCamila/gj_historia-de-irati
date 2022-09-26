@@ -1,7 +1,8 @@
 body{
-background: rgb(135, 235, 165);
+background: linear-gradient(to bottom, rgb(135, 235, 165), rgb(11, 109, 88));
 }
 
 h1{
     text-align: center;
+    font-size: 40px;
 }
