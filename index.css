@@ -1,8 +1,11 @@
 body{
 background: linear-gradient(to bottom, rgb(135, 235, 165), rgb(11, 109, 88));
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h1{
-    text-align: center;
+
+text-align: center;
     font-size: 40px;
 }
+
